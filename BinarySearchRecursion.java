@@ -1,6 +1,6 @@
 package org.example;
 
-public class BinarySearchReccursion {
+public class BinarySearchRecursion  {
 
     public static int binarySearch(int[] arr, int target,int start, int end){
         if (start > end)
